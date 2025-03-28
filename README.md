@@ -26,4 +26,4 @@ Este é um sistema desenvolvido em **React + TypeScript** para gerenciar reserva
 ### **1️⃣ Clone o Repositório**
 ```bash
 git clone https://github.com/luispaivax/desafio-ftt-frontend.git
-cd seu-repositorio
+cd desafio-ftt-frontend
