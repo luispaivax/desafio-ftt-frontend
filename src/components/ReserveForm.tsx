@@ -1,4 +1,6 @@
 import React, { useState, useEffect } from "react";
+import "../styles/reserveform.css";
+
 
 const ReserveForm: React.FC = () => {
   const [blocks, setBlocks] = useState<string[]>([]);
