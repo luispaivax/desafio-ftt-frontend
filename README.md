@@ -24,9 +24,9 @@ Este é um sistema desenvolvido em **React + TypeScript** para gerenciar reserva
 ## 🔧 **Como Rodar o Projeto**
 - Instalação do Node.js
 - Instalação de bibliotecas no terminal como:
-    -npm install react react-dom typescript
-    -npm install react-router-dom
-    -npm install react-toastify
+npm install react react-dom typescript
+npm install react-router-dom
+npm install react-toastify
 
 
 ### **1️⃣ Clone o Repositório**
