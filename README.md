@@ -28,6 +28,11 @@ Este é um sistema desenvolvido em **React + TypeScript** para gerenciar reserva
 -npm install react-router-dom
 -npm install react-toastify
 
+-Como o projeto não possui uma API é necessário colocar os endpoints manualmente na URL:
+-Iniciar o projeto com npm start
+-Visualizar a dashboard: http://localhost:3000/dashboard
+-Visualizar as futuras reservas: http://localhost:3000/reservations
+-Visualizar o formulário de reservas: http://localhost:3000/reserveform
 
 ### **1️⃣ Clone o Repositório**
 ```bash
